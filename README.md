@@ -15,6 +15,8 @@ O Business Intelligence é uma área composta por estratégias e tecologias util
 Quando precisamos realizar um dashboard, um storytelling ou até mesmo um relatório, é necessário o uso de dados para fomentar a ideia criada. Para isso, existe diferetes tipos de análises de dados:
 </br>
 </br>
+<hr>
+
 ### 1º Descritiva: o que aconteceu?
 Descreve análises, caracteriza-se por ser a primeira análise a ser feita pois entene o comportamento dos dados.
 </br>
@@ -22,6 +24,16 @@ Descreve análises, caracteriza-se por ser a primeira análise a ser feita pois 
 
 ### 2º Diagnóstica: por que aconteceu?
 Encontra relação de causa e consequência no cenário dos dados, processo probabilístico.
+</br>
+<hr>
+
+### 3º Preditiva: o que acontecerá?
+Realiza previsões de cenários (como serão as vendas do próximo mês, por exemplo). Usa-se Machine Learning para este tipo de análise. 
+</br>
+<hr>
+
+### 4º Prescritiva: o que fazer?
+Resolução de problemas, subsídio de impactos.
 </br>
 <hr>
 

@@ -36,6 +36,12 @@ Realiza previsões de cenários (como serão as vendas do próximo mês, por exe
 Resolução de problemas, subsídio de impactos.
 </br>
 <hr>
+</br>
+</br>
+</br>
+
+### ETL - Extract, Transform & Load
+
 
 ![image](https://github.com/user-attachments/assets/8d13d6ec-a863-4d79-b65d-04b429d21ddb)
 

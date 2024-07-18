@@ -20,6 +20,7 @@ Descreve análises, caracteriza-se por ser a primeira análise a ser feita pois 
 </br>
 <hr>
 </br>
+
 ### 2º Diagnóstica: por que aconteceu?
 Encontra relação de causa e consequência no cenário dos dados, processo probabilístico.
 </br>

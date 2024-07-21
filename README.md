@@ -49,17 +49,14 @@ O processo de extração, tranformação e carregamento serve para justamente ex
 
 ### Extração:é realizada de clouds, CRMs, files, SGBD, planilhas etc.
 </br>
-</br>
 
 ### Transformção: trata os dados extraídos e os passa para uma estrutura que condiz com a informação que buscamos, ou seja, converte de um formato para o outro.
 </br>
-</br>
-
 
 ### Carregamento: é a integração de dados que serão enviados a um repositório centralizado para outros profissionais analisarem.
 </br>
 </br>
-</br>
+
 
 
 

@@ -42,8 +42,13 @@ Resolução de problemas, subsídio de impactos.
 
 ### ETL - Extract, Transform & Load
 O processo de extração, tranformação e carregamento serve para justamente extrair informações para transformá-las em algo útil, carregando-as em um repositório para uma posterior análise.
+</br>
+</br>
+</br>
 
-## Extração: é realizada de clouds, CRMs, files, SGBD, planilhas etc.
+
+## Extração:
+é realizada de clouds, CRMs, files, SGBD, planilhas etc.
 ## Transformção: trata os dados extraídos e os passa para uma estrutura que condiz com a informação que buscamos, ou seja, converte de um formato para o outro.
 ## Carregamento: é a integração de dados que serão enviados a um repositório centralizado para outros profissionais analisarem.
 

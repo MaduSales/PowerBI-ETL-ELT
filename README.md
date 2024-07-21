@@ -63,6 +63,6 @@ O processo de extração, tranformação e carregamento serve para justamente ex
 
 
 
-        ![image](https://github.com/user-attachments/assets/8d13d6ec-a863-4d79-b65d-04b429d21ddb)
+![image](https://github.com/user-attachments/assets/8d13d6ec-a863-4d79-b65d-04b429d21ddb)
 
 

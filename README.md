@@ -60,6 +60,7 @@ O processo de extração, tranformação e carregamento serve para justamente ex
 </br>
 </br>
 
+### Imagem ilustrativa:
 
 
 
